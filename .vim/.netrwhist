@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/baikal.int/g.vlasov/smbus/sdk_bm/baikal/src/kernel/arch/arm64/boot/dts/nvidia'
+let g:netrw_dirhist_2='/home/baikal.int/g.vlasov/smbus/sdk_bm/baikal/src/kernel/Documentation/devicetree/bindings/timer'
+let g:netrw_dirhist_3='/home/baikal.int/g.vlasov/.vim/bundle/Vundle.vim'
+let g:netrw_dirhist_4='/home/baikal.int/g.vlasov/cpufreq_transport/sdk_bt/baikal/src/u-boot/common'
